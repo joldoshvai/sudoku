@@ -1,5 +1,6 @@
-.continer {
+.hiro {
     max-width: 1258px;
     max-height: 911px;
+    background: url(../css/Bitmap.jpg);
     display: flex;
 }
