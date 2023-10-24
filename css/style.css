@@ -1,4 +1,7 @@
 .continer {
-        max-width: 1958px;
-        max-height: 911px;
+    
+    max-width: 1240px;
+    max-height: 911px;
+    margin: 0 auto;
+    display: flex;
 }
